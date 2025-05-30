@@ -10,22 +10,21 @@ lapse.mjs
 payload.bin
 payload.js
 psfree.mjs
-fonts\LiberationMono-Regular.ttf
-kpatch\900.elf
-module\chain.mjs
-module\constants.mjs
-module\int64.mjs
-module\mem.mjs
-module\memtools.mjs
-module\offset.mjs
-module\rw.mjs
-module\utils.mjs
-module\view.mjs
-rop\900.mjs
+fonts/LiberationMono-Regular.ttf
+kpatch/900.elf
+module/chain.mjs
+module/constants.mjs
+module/int64.mjs
+module/mem.mjs
+module/memtools.mjs
+module/offset.mjs
+module/rw.mjs
+module/utils.mjs
+module/view.mjs
+rop/900.mjs
 
 NETWORK:
 *
 
 SETTINGS:
-prefer-online:
-
+prefer-online
