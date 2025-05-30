@@ -1,0 +1,15 @@
+/*
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+
+/*.mjs
+  Content-Type: application/javascript
+
+/*.cache
+  Content-Type: text/cache-manifest
+
+/*.elf
+  Content-Type: application/octet-stream
+
+/*.bin
+  Content-Type: application/octet-stream
