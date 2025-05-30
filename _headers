@@ -14,10 +14,6 @@
 
 /*.bin
   Content-Type: application/octet-stream
-/*
-  Cache-Control: no-cache, no-store, must-revalidate
-  Access-Control-Allow-Origin: *
-  Access-Control-Allow-Methods: GET, HEAD, OPTIONS
 
 /sw.js
   Service-Worker-Allowed: /
